@@ -1,50 +1,65 @@
-import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
-import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
+import React from "react";
+import { DiFirebase, DiReact, DiZend, DiCoda } from "react-icons/di";
+import { FiCloudDrizzle, FiPower } from "react-icons/fi";
+import {
+  Section,
+  SectionDivider,
+  SectionText,
+  SectionTitle,
+} from "../../styles/GlobalComponents";
+import {
+  List,
+  ListContainer,
+  ListItem,
+  ListParagraph,
+  ListTitle,
+} from "./TechnologiesStyles";
 
-const Technologies = () =>  (
+const Technologies = () => (
   <Section id="tech">
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      As we work with robotic farming, we notice we are able to achieve more
+      precise and efficient crop management, leading to improved yields and
+      greater food security. Additionally, working with this technology allows
+      us to focus on higher-level decision making and strategic planning for our
+      farming operations.
     </SectionText>
     <List>
       <ListItem>
         <picture>
-          <DiReact size="3rem" />
+          <FiCloudDrizzle size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Automated Watering</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            React.js
+            Locomotive watering <br />
+            System
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
-          <DiFirebase size="3rem" />
+          <DiCoda size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Automated Planting</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Self rolling <br />
+            seed planter
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
-          <DiZend size="3rem" />
+          <FiPower size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Automated Harvesting</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            To be <br />
+            Explored...
           </ListParagraph>
         </ListContainer>
       </ListItem>
