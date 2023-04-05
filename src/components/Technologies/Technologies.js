@@ -24,7 +24,8 @@ const Technologies = () => (
       precise and efficient crop management, leading to improved yields and
       greater food security. Additionally, working with this technology allows
       us to focus on higher-level decision making and strategic planning for our
-      farming operations.
+      farming operations. In turn, this enables us to better serve communities
+      in food desert areas and help combat food insecurity.
     </SectionText>
     <List>
       <ListItem>

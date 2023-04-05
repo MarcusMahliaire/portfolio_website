@@ -26,7 +26,7 @@ export const BlogCard = styled.div`
   box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
   text-align: center;
   width: 400px;
-  background: #6b7366;
+  background: #7b8774;
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 100%;
   }
@@ -88,11 +88,11 @@ export const ExternalLinks = styled.a`
   color: #fff;
   font-size: 1.6rem;
   padding: 1rem 1.5rem;
-  background: #00a651;
+  background: #038040;
   border-radius: 15px;
   transition: 0.5s;
   &:hover {
-    background: #3c6e71;
+    background: #0d944e;
   }
 `;
 

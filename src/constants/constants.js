@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Establishment of a New Farm",
     description:
-      "Bringing Food to Somalia through the establishment of a new farm. With the use of simple robotics, we are able to automate the process of farming and increase the yield of crops. This will help to feed the growing population of Somalia and improve food security.",
+      "Our innovative new farm in Somalia uses cutting-edge automated irrigation systems to maximize crop yields and promote sustainable farming practices. By leveraging this technology, we're able to produce high-quality, nutritious crops that not only benefit local communities but also contribute to the well-being of our planet. Stay tuned for more updates on our progress!",
     image: "/images/1.jpg",
     tags: ["Somalia", "Farm", "Robotics", "Food Security"],
     source: "https://google.com",
@@ -10,9 +10,9 @@ export const projects = [
     id: 0,
   },
   {
-    title: "Greenhouse Testing",
+    title: "Automated Water System",
     description:
-      "We are currently experimenting with various styles of greenhouses to find the best suited environment for optimal plant growth and safety.",
+      "At Effortless, we're using innovative technology to care for our crops. Our automated irrigation system helps us achieve increased crop yields while conserving water through optimal watering. By providing each plant and soil type with the right amount of water, we're able to maximize our yields while minimizing waste, allowing us to run a more sustainable and profitable farm.",
     image: "/images/2.jpg",
     tags: ["Water System", "Automated", "Resources"],
     source: "https://google.com",
@@ -20,9 +20,9 @@ export const projects = [
     id: 1,
   },
   {
-    title: "Filler",
+    title: "Why are we here?",
     description:
-      "This is a filler paragraph for right now cause its super late and im very tired. My copilot even stopped recommending things. So i guess its time.",
+      "At Effortless, we believe in using innovative and sustainable farming practices to make a positive impact on the lives of those in need. Through our mobile automated irrigation system, we're able to produce high-quality, nutritious crops that we provide to local food desert areas at affordable prices. Our mission is to combat food insecurity and contribute to the well-being of our community through selfless and impactful actions.",
     image: "/images/3.jpg",
     tags: ["Tired", "Filler"],
     source: "https://google.com",
@@ -30,9 +30,9 @@ export const projects = [
     id: 2,
   },
   {
-    title: "New Website",
+    title: "New Website Launched!",
     description:
-      "This is the official launch of our website. Where we can keep the community updated on our current project progress and where we want to go. Stay tuned for current updates!",
+      "Thank you for being here, we're thrilled to launch our new website, designed to increase awareness of our sustainable farming practices and our mission to combat food insecurity in local food deserts. Through the website, we hope to inspire others to join us in creating a healthier, more sustainable future for all. Be sure to check back here for future updates!",
     image: "/images/4.jpg",
     tags: ["Website", "Updates", "Community"],
     source: "https://google.com",
@@ -42,9 +42,12 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2021, text: "The idea was entertained." },
-  { year: 2022, text: "Developed our first stress tested robotic arm" },
-  { year: 2022, text: "Arrived in Somalia for ground work" },
-  { year: 2023, text: "Tested various growth methods in desert" },
-  { year: 2023, text: "Founded the start of Effortless" },
+  { year: 2021, text: "The idea of automated farming assistants was born." },
+  { year: 2022, text: "Developed our first few stress tested robots." },
+  { year: 2022, text: "Arrived in Somalia to test various growth methods." },
+  {
+    year: 2023,
+    text: "Developed our first official automated irrigation system.",
+  },
+  { year: 2023, text: "Founded the start of Effortless." },
 ];
