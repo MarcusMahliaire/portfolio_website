@@ -1,7 +1,6 @@
 import Link from "next/link";
 import React from "react";
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
-import { DiCssdeck } from "react-icons/di";
 
 import {
   Container,
@@ -21,10 +20,20 @@ const Header = () => (
             display: "flex",
             alignItems: "center",
             color: "white",
+            justifyContent: "flex-start",
           }}
         >
-          <img src="/images/Effortless.png" alt="logo" />{" "}
-          <span>Effortless</span>
+          <img
+            src="/images/Effortless.png"
+            alt="logo"
+            style={{
+              maxWidth: "60%",
+              height: "auto",
+              marginTop: "-2rem",
+              marginLeft: "2rem",
+            }}
+          />{" "}
+          <span style={{ marginTop: "-2rem" }}>Effortless</span>
         </a>
       </Link>
     </Div1>
@@ -45,7 +54,11 @@ const Header = () => (
         </Link>
       </li>
     </Div2>
-    <Div3>
+    <Div3
+      style={{
+        marginRight: "7rem",
+      }}
+    >
       {/* <SocialIcons href="https://google.com">
         <AiFillGithub size="3rem" />
       </SocialIcons> */}

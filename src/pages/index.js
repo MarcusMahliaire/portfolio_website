@@ -6,6 +6,7 @@ import Technologies from "../components/Technologies/Technologies";
 import Timeline from "../components/TimeLine/TimeLine";
 import { Layout } from "../layout/Layout";
 import { Section } from "../styles/GlobalComponents";
+import { Image } from "./indexStyles";
 
 const Home = () => {
   return (
@@ -13,15 +14,16 @@ const Home = () => {
       <Section grid>
         <Hero />
         {/* <BgAnimation /> */}
-        <img
-          src="./images/practice.jpg"
+        <Image
+          src="./images/somaliafarm.jpg"
           alt="photo"
           style={{
             width: "90%",
             height: "auto",
-            flex: 1,
-            marginLeft: "100px",
             borderRadius: "10px",
+            flex: "1",
+            marginTop: "8rem",
+            marginLeft: "2rem",
           }}
         />
       </Section>
