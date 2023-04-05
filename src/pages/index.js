@@ -7,6 +7,15 @@ import Timeline from "../components/TimeLine/TimeLine";
 import { Layout } from "../layout/Layout";
 import { Section } from "../styles/GlobalComponents";
 import { Image } from "./indexStyles";
+import styled from "styled-components";
+
+export const Image = styled.img`
+  display: block;
+  max-width: 100%;
+  @media (max-width: 768px) {
+    display: none;
+  }
+`;
 
 const Home = () => {
   return (

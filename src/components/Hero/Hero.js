@@ -6,11 +6,6 @@ import {
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
-import styled from "styled-components";
-
-const TitleWrapper = styled.div`
-  width: 100%;
-`;
 
 const Hero = (props) => (
   <>
