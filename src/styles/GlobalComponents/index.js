@@ -312,3 +312,11 @@ export const LinkIconImg = styled.div`
     height: ${({ large }) => (large ? "32px" : "16px")};
   }
 `;
+
+export const Image = styled.img`
+  display: block;
+  max-width: 100%;
+  @media (max-width: 768px) {
+    display: none;
+  }
+`;
