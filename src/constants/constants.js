@@ -13,7 +13,7 @@ export const projects = [
     title: "Automated Water System",
     description:
       "At Effortless, we're using innovative technology to care for our crops. Our automated irrigation system helps us achieve increased crop yields while conserving water through optimal watering. By providing each plant and soil type with the right amount of water, we're able to maximize our yields while minimizing waste, allowing us to run a more sustainable and profitable farm.",
-    image: "/images/2.jpg",
+    image: "/images/wateringbot.png",
     tags: ["Water System", "Automated", "Resources"],
     source: "https://google.com",
     visit: "https://google.com",

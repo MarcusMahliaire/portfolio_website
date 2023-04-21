@@ -14,13 +14,13 @@ const Home = () => {
         <Hero />
         {/* <BgAnimation /> */}
         <Image
-          src="./images/somaliafarm.jpg"
+          src="./images/Oldbusiness.png"
           alt="photo"
           style={{
             width: "90%",
             height: "auto",
             borderRadius: "10px",
-            flex: "1",
+
             marginTop: "8rem",
             marginLeft: "2rem",
           }}
