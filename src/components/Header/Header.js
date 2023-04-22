@@ -24,7 +24,7 @@ const Header = () => (
           }}
         >
           <img
-            src="/images/Effortless.png"
+            src="/images/BigLeafLogo.png"
             alt="logo"
             style={{
               maxWidth: "60%",
@@ -37,7 +37,7 @@ const Header = () => (
         </a>
       </Link>
     </Div1>
-    <Div2>
+    <Div2 style={{ marginTop: "1rem" }}>
       <li>
         <Link href="#projects">
           <NavLink>Projects</NavLink>
