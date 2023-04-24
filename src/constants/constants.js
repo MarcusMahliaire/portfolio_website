@@ -1,8 +1,11 @@
+import { LinkContainer } from "../styles/GlobalComponents";
+
 export const projects = [
   {
-    title: "Establishment of a New Farm",
+    title: "Invest in sustainable farming for a brighter future",
     description:
-      "Our innovative new farm in Somalia uses cutting-edge automated irrigation systems to maximize crop yields and promote sustainable farming practices. By leveraging this technology, we're able to produce high-quality, nutritious crops that not only benefit local communities but also contribute to the well-being of our planet. Stay tuned for more updates on our progress!",
+      "As we look to the future of food production, it's clear that sustainable and scalable technologies will be key. That's why we're proud to be developing an innovative mobile irrigation system that's changing the game for small scale farming in North Eastern Africa and beyond. With your help we will be able to complete these goals quicker and help more communities in food deserts. You'll be making a real impact on the future of food production and those in need. We thank you for your support in every way!",
+
     image: "/images/1.jpg",
     tags: ["Somalia", "Farm", "Robotics", "Food Security"],
     source: "https://google.com",

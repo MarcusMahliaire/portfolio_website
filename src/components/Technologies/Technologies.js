@@ -20,12 +20,19 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      As we work with robotic farming, we notice we are able to achieve more
-      precise and efficient crop management, leading to improved yields and
-      greater food security. Additionally, working with this technology allows
-      us to focus on higher-level decision making and strategic planning for our
-      farming operations. In turn, this enables us to better serve communities
-      in food desert areas and help combat food insecurity.
+      At Effortless, we understand that the key to successful farming lies in
+      the precise management of crops and soil. Our innovative mobile irrigation
+      system leverages the latest advances in robotics and automation to ensure
+      timely and consistent watering of plants, while taking into account
+      factors such as soil composition and plant needs. By using our technology,
+      farmers can increase crop yields, reduce water waste, and promote
+      sustainable farming practices. Additionally, our system allows farmers to
+      focus on higher-level decision making and strategic planning, freeing up
+      time and resources to better serve communities in food desert areas and
+      combat food insecurity. With your support, we're looking to expand our
+      technology into other areas of farming, creating a comprehensive suite of
+      sustainable and scalable solutions. Join us in revolutionizing small scale
+      farming and making life easier for farmers and communities alike.
     </SectionText>
     <List>
       <ListItem>

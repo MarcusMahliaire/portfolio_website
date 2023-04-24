@@ -18,10 +18,14 @@ const Hero = (props) => (
           </SectionTitle>
 
           <SectionText>
-            where we are committed to bringing sustainable agriculture to all
-            communities. Our robotic farming technologies are designed to
-            revolutionize the industry and enhance food security, while
-            minimizing environmental impact.
+            the home of innovative and sustainable mobile irrigation systems.
+            We're on a mission to transform small scale farming and improve food
+            security in North Eastern Africa and beyond. Our automated
+            irrigation system ensures consistent and timely watering for crops,
+            while being customizable to meet the unique needs of your plants and
+            soil. With our technology, our goal is to increase crop yields,
+            reduce water waste, and promote sustainable farming practices for
+            everyong.
           </SectionText>
           <Button onClick={props.handleClick}>Learn More</Button>
         </div>
