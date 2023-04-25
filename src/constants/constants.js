@@ -23,7 +23,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: "Whats our future?",
+    title: "What does the future hold?",
     description:
       "We believe in using innovative and sustainable farming practices to make a positive impact on the lives of those in need. Through our automated irrigation system, we're able to produce high-quality, nutritious crops that we provide to local food desert areas at affordable prices. Our mission is to combat food insecurity and contribute to the well-being of our community through selfless and impactful actions.",
     image: "/images/3.jpg",
@@ -32,16 +32,16 @@ export const projects = [
     visit: "https://google.com",
     id: 2,
   },
-  {
-    title: "New Website Launched!",
-    description:
-      "Thank you for being here, we're thrilled to launch our new website, designed to increase awareness of our sustainable farming practices and our mission to combat food insecurity in local food deserts. Through the website, we hope to inspire others to join us in creating a healthier, more sustainable future for all. Be sure to check back here for future updates!",
-    image: "/images/4.jpg",
-    tags: ["Website", "Updates", "Community"],
-    source: "https://google.com",
-    visit: "https://google.com",
-    id: 3,
-  },
+  // {
+  //   title: "New Website Launched!",
+  //   description:
+  //     "Thank you for being here, we're thrilled to launch our new website, designed to increase awareness of our sustainable farming practices and our mission to combat food insecurity in local food deserts. Through the website, we hope to inspire others to join us in creating a healthier, more sustainable future for all. Be sure to check back here for future updates!",
+  //   image: "/images/4.jpg",
+  //   tags: ["Website", "Updates", "Community"],
+  //   source: "https://google.com",
+  //   visit: "https://google.com",
+  //   id: 3,
+  // },
 ];
 
 export const TimeLineData = [

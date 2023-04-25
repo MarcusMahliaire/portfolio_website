@@ -19,6 +19,7 @@ const Header = () => (
       zIndex: 1,
       background: "#333333",
       height: "8rem",
+      opacity: 1,
     }}
   >
     <Div1>
@@ -38,7 +39,6 @@ const Header = () => (
               maxWidth: "60%",
               height: "auto",
               marginTop: "-2rem",
-              marginLeft: "2rem",
             }}
           />{" "}
           <span style={{ marginTop: "-2rem" }}>Effortless</span>

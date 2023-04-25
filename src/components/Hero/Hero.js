@@ -3,6 +3,7 @@ import {
   Section,
   SectionText,
   SectionTitle,
+  HeroTitle,
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
@@ -12,10 +13,10 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <div>
-          <SectionTitle main center>
+          <HeroTitle main center>
             Welcome To <br />
             Effortless
-          </SectionTitle>
+          </HeroTitle>
 
           <SectionText>
             the home of innovative and sustainable mobile irrigation systems.

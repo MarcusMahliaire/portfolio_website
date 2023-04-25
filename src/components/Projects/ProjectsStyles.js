@@ -27,6 +27,12 @@ export const BlogCard = styled.div`
   text-align: center;
   width: 400px;
   background: #7b8774;
+  @media ${(props) => props.theme.breakpoints.xl} {
+    width: 100%;
+  }
+  @media ${(props) => props.theme.breakpoints.md} {
+    width: 100%;
+  }
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 100%;
   }

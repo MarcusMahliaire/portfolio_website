@@ -22,8 +22,8 @@ import { projects } from "../../constants/constants";
 
 const Projects = () => (
   <Section nopadding id="projects">
-    <SectionDivider style={{ marginLeft: "5rem", marginBottom: "-2rem" }} />
-    <SectionTitle style={{ marginLeft: "5rem" }} main>
+    <SectionDivider style={{ marginLeft: "1rem", marginBottom: "-1rem" }} />
+    <SectionTitle style={{ marginLeft: "1rem" }} main>
       News & Updates
     </SectionTitle>
     <GridContainer>
