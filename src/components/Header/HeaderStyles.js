@@ -40,10 +40,11 @@ export const Div2 = styled.div`
   justify-content: space-around;
   @media ${(props) => props.theme.breakpoints.sm} {
     grid-area: 2 / 2 / 3 / 5;
+    display: none;
   }
-  // @media ${(props) => props.theme.breakpoints.md} {
-  //   grid-area: 1 / 4 / 2 / 4;
-  // }
+  @media ${(props) => props.theme.breakpoints.md} {
+    grid-area: 1 / 4 / 2 / 4;
+  }
 `;
 export const Div3 = styled.div`
   grid-area: 1 / 5 / 2 / 6;

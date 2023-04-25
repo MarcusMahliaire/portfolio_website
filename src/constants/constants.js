@@ -2,18 +2,18 @@ import { LinkContainer } from "../styles/GlobalComponents";
 
 export const projects = [
   {
-    title: "Invest in sustainable farming for a brighter future",
+    title: "Help us invest in sustainable farming for a brighter future",
     description:
       "As we look to the future of food production, it's clear that sustainable and scalable technologies will be key. That's why we're proud to be developing an innovative mobile irrigation system that's changing the game for small scale farming in North Eastern Africa and beyond. With your help we will be able to complete these goals quicker and help more communities in food deserts. You'll be making a real impact on the future of food production and those in need. We thank you for your support in every way!",
 
-    image: "/images/1.jpg",
+    image: "/images/piggybank.jpg",
     tags: ["Somalia", "Farm", "Robotics", "Food Security"],
     source: "https://google.com",
     visit: "https://google.com",
     id: 0,
   },
   {
-    title: "Automated Water System",
+    title: "A small look at our irrigation System",
     description:
       "At Effortless, we're using innovative technology to care for our crops. Our automated irrigation system helps us achieve increased crop yields while conserving water through optimal watering. By providing each plant and soil type with the right amount of water, we're able to maximize our yields while minimizing waste, allowing us to run a more sustainable and profitable farm.",
     image: "/images/wateringbot.png",
@@ -23,9 +23,9 @@ export const projects = [
     id: 1,
   },
   {
-    title: "Why are we here?",
+    title: "Whats our future?",
     description:
-      "At Effortless, we believe in using innovative and sustainable farming practices to make a positive impact on the lives of those in need. Through our mobile automated irrigation system, we're able to produce high-quality, nutritious crops that we provide to local food desert areas at affordable prices. Our mission is to combat food insecurity and contribute to the well-being of our community through selfless and impactful actions.",
+      "We believe in using innovative and sustainable farming practices to make a positive impact on the lives of those in need. Through our automated irrigation system, we're able to produce high-quality, nutritious crops that we provide to local food desert areas at affordable prices. Our mission is to combat food insecurity and contribute to the well-being of our community through selfless and impactful actions.",
     image: "/images/3.jpg",
     tags: ["Tired", "Filler"],
     source: "https://google.com",

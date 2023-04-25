@@ -25,7 +25,7 @@ const Hero = (props) => (
             while being customizable to meet the unique needs of your plants and
             soil. With our technology, our goal is to increase crop yields,
             reduce water waste, and promote sustainable farming practices for
-            everyong.
+            everyone.
           </SectionText>
           <Button onClick={props.handleClick}>Learn More</Button>
         </div>

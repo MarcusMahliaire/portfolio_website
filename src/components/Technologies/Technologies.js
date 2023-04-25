@@ -25,14 +25,14 @@ const Technologies = () => (
       system leverages the latest advances in robotics and automation to ensure
       timely and consistent watering of plants, while taking into account
       factors such as soil composition and plant needs. By using our technology,
-      farmers can increase crop yields, reduce water waste, and promote
-      sustainable farming practices. Additionally, our system allows farmers to
-      focus on higher-level decision making and strategic planning, freeing up
-      time and resources to better serve communities in food desert areas and
-      combat food insecurity. With your support, we're looking to expand our
-      technology into other areas of farming, creating a comprehensive suite of
-      sustainable and scalable solutions. Join us in revolutionizing small scale
-      farming and making life easier for farmers and communities alike.
+      we can increase crop yields, reduce water waste, and promote sustainable
+      farming practices. Additionally, our system allows farmers to focus on
+      higher-level decision making and strategic planning, freeing up time and
+      resources to better serve communities in food desert areas and combat food
+      insecurity. With your support, we're looking to expand our technology into
+      other areas of farming, creating a comprehensive suite of sustainable and
+      scalable solutions. Join us in revolutionizing small scale farming and
+      making life easier for farmers and communities alike.
     </SectionText>
     <List>
       <ListItem>
