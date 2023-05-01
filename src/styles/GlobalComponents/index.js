@@ -78,9 +78,10 @@ export const HeroTitle = styled.h2`
   font-weight: 800;
   font-size: ${(props) => (props.main ? "65px" : "56px")};
   line-height: ${(props) => (props.main ? "72px" : "56px")};
+  color: #3c6e71;
   width: max-content;
   max-width: 100%;
-  background: linear-gradient(121.57deg, #f2efe9 18.77%, #b2d8b2 60.15%);
+  background: linear-gradient(112.57deg, #f2efe9 1%, #b2d8b2 55.15%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-bottom: 16px;

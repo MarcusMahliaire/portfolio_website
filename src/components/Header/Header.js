@@ -33,10 +33,10 @@ const Header = () => (
           }}
         >
           <img
-            src="/images/BigLeafLogo.png"
+            src="/images/Effortless.png"
             alt="logo"
             style={{
-              maxWidth: "60%",
+              maxWidth: "45%",
               height: "auto",
               marginTop: "-2rem",
             }}

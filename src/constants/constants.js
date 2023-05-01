@@ -2,21 +2,23 @@ import { LinkContainer } from "../styles/GlobalComponents";
 
 export const projects = [
   {
-    title: "Help us invest in sustainable farming for a brighter future",
+    title:
+      " Innovative Irrigation System Boosts Crop Yields and Sustainability at Effortless Farm",
     description:
-      "As we look to the future of food production, it's clear that sustainable and scalable technologies will be key. That's why we're proud to be developing an innovative mobile irrigation system that's changing the game for small scale farming in North Eastern Africa and beyond. With your help we will be able to complete these goals quicker and help more communities in food deserts. You'll be making a real impact on the future of food production and those in need. We thank you for your support in every way!",
+      "The founders of Effortless, Yassin Abdi and Marcus Mahliaire, recognized the need for more efficient water management in agriculture, particularly in regions affected by climate change and water scarcity. Their solution, an automated irrigation system, is designed to deliver the precise amount of water needed for each plant and soil type. This targeted approach allows farmers to maximize their yields while minimizing waste. resulting in a more productive and profitable operations.",
 
-    image: "/images/piggybank.jpg",
+    image: "/images/desertplants.jpg",
     tags: ["Somalia", "Farm", "Robotics", "Food Security"],
     source: "https://google.com",
     visit: "https://google.com",
     id: 0,
   },
   {
-    title: "A small look at our irrigation System",
+    title:
+      "Effortless Combats Food Insecurity with Innovative, Sustainable Farming Practices",
     description:
-      "At Effortless, we're using innovative technology to care for our crops. Our automated irrigation system helps us achieve increased crop yields while conserving water through optimal watering. By providing each plant and soil type with the right amount of water, we're able to maximize our yields while minimizing waste, allowing us to run a more sustainable and profitable farm.",
-    image: "/images/wateringbot.png",
+      "Effortless, a pioneering agricultural technology company, is using its innovative automated irrigation system to make a positive impact on communities in need. By producing high-quality, nutritious crops and providing them to local food desert areas at affordable prices, Effortless is actively combating food insecurity and contributing to the well-being of those who need it most using the technology available today. With continued efforts, we hope to create a ripple for others to join us in.",
+    image: "/images/leaves.jpg",
     tags: ["Water System", "Automated", "Resources"],
     source: "https://google.com",
     visit: "https://google.com",
@@ -25,7 +27,7 @@ export const projects = [
   {
     title: "What does the future hold?",
     description:
-      "We believe in using innovative and sustainable farming practices to make a positive impact on the lives of those in need. Through our automated irrigation system, we're able to produce high-quality, nutritious crops that we provide to local food desert areas at affordable prices. Our mission is to combat food insecurity and contribute to the well-being of our community through selfless and impactful actions.",
+      "At Effortless, we believe in using innovative and sustainable farming practices to make a positive impact on the lives of those in need. Through our automated irrigation system, we're able to produce high-quality, nutritious crops that we provide to local food desert areas at affordable prices. In the future we will dive deeper into agriculture practices with drones, planters, and potentially harvestors. Our mission is to combat food insecurity and contribute to those who need it most. With the technology available this goal is more possible than ever before.",
     image: "/images/3.jpg",
     tags: ["Tired", "Filler"],
     source: "https://google.com",

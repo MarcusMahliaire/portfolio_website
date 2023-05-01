@@ -67,17 +67,20 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Us</SectionTitle>
       <SectionText>
-        As chemist and biology software engineers, we are driven to start a
-        robotics farming company that can address the pressing environmental
-        concerns facing agriculture, particularly in food desert areas. We
-        recognize the critical role of technology in optimizing crop yields,
-        improving resource efficiency, and reducing environmental impact. With
-        our diverse skill sets and shared passion for sustainability, we aim to
-        leverage the power of robotics, machine learning, and data analytics to
-        revolutionize the way food is grown and distributed. By working
-        together, we are confident in our ability to develop innovative
-        solutions that can enhance food security and promote a more sustainable
-        future.
+        Effortless was co-founded in 2021 by Yassin Abdi and Marcus Mahliaire,
+        two visionary entrepreneurs who shared a passion for transforming
+        agriculture and improving food security in North Eastern Africa and
+        beyond. Yassin, with a background in chemistry, robotics, and computer
+        science, and Marcus, specializing in biology and computer engineering,
+        combined their expertise to tackle the pressing issues of food scarcity
+        and environmental challenges.{" "}
+        <span style={{ color: "#B2D8B2" }}>
+          In their first year, Yassin and Marcus focused on researching and
+          understanding the unique challenges faced by small-scale farmers in
+          the region. They identified key areas where technology could make a
+          significant impact, such as water management, crop monitoring, and
+          sustainable farming practices.
+        </span>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
