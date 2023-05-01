@@ -14,7 +14,7 @@ const Home = () => {
         <Hero />
         {/* <BgAnimation /> */}
         <Image
-          src="./images/portraitrobot.jpg"
+          src="./images/wateringrobot1.png"
           alt="photo"
           style={{
             width: "90%",

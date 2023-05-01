@@ -38,8 +38,8 @@ const Hero = (props) => (
             <span style={{ color: "#B2D8B2" }}>environmental degradation.</span>
           </SectionText>
           <Button
-            target="_blank"
             onClick={() => (window.location = "https://gofund.me/d0a0d2b3")}
+            target="_blank"
           >
             Learn More
           </Button>
