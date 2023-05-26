@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 
 function Livestream() {
   useEffect(() => {
-    const ws = new WebSocket("ws://172.26.112.1:7890");
+    const ws = new WebSocket("ws://172.30.80.1:7890");
 
     ws.onopen = () => {
       ws.send("testing");
